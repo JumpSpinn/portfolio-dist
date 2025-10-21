@@ -1,0 +1,1 @@
+import{A as t}from"./AppContentWrapper-CMacHJ0G.js";import{A as e}from"./AppContentTitle-DY4Tvdhi.js";import{d as a,c as o,w as r,o as p,b as c}from"./index-uwX9bur2.js";const f=a({__name:"TechStack",setup(n){return(s,m)=>(p(),o(t,null,{default:r(()=>[c(e,{title:"Tech-Stack"})]),_:1}))}});export{f as default};
