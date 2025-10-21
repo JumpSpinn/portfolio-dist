@@ -1,0 +1,1 @@
+import{_ as t,b as n,r as o,o as r}from"./index-BIga7mOe.js";const s={},a={class:"app_content_wrapper"};function c(e,_){return r(),n("div",a,[o(e.$slots,"default",{},void 0)])}const d=t(s,[["render",c],["__scopeId","data-v-e2ad04f5"]]);export{d as A};

@@ -1,0 +1,1 @@
+import{A as t}from"./AppContentWrapper-BX8J206x.js";import{d as o,c as a,w as r,o as n,a as s}from"./index-BIga7mOe.js";const u=o({__name:"Projects",setup(p){return(l,e)=>(n(),a(t,null,{default:r(()=>[...e[0]||(e[0]=[s("h1",null,"PROJECTS",-1)])]),_:1}))}});export{u as default};
