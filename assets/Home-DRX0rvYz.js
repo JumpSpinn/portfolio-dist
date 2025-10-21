@@ -1,0 +1,1 @@
+import{A as t}from"./AppContentWrapper-DyrdU3Kt.js";import{d as o,c as a,o as r,w as n,a as p}from"./index-ciHpMLkV.js";const _=o({__name:"Home",setup(s){return(l,e)=>(r(),a(t,null,{default:n(()=>[...e[0]||(e[0]=[p("h1",null,"HOME",-1)])]),_:1}))}});export{_ as default};
