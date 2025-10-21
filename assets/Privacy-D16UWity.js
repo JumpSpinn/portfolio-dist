@@ -1,0 +1,1 @@
+import{A as t}from"./AppContentWrapper-CoH9qsUW.js";import{d as a,a as o,w as r,o as n,e as p}from"./index-Dy--e7yV.js";const _=a({__name:"Privacy",setup(s){return(l,e)=>(n(),o(t,null,{default:r(()=>[...e[0]||(e[0]=[p("h1",null,"PRIVACY",-1)])]),_:1}))}});export{_ as default};
