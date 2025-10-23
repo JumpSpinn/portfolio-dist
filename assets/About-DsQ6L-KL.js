@@ -1,0 +1,1 @@
+import{A as t}from"./AppContentWrapper-DKAdA1i5.js";import{A as e}from"./AppContentTitle-BJoyeidq.js";import{d as o,c as a,w as r,o as p,a as n}from"./index-DMRf6MBN.js";const u=o({__name:"About",setup(s){return(c,m)=>(p(),a(t,null,{default:r(()=>[n(e,{title:"About Me"})]),_:1}))}});export{u as default};
