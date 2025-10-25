@@ -1,0 +1,1 @@
+import{d as e,i as n,o,t as a,_ as p}from"./index-BD7i2U9O.js";const s=e({__name:"AppContentTitle",props:{title:{default:"Empty Title"}},setup(t){return(l,c)=>(o(),n("h1",null,a(t.title),1))}}),r=p(s,[["__scopeId","data-v-1b4ab951"]]);export{r as A};

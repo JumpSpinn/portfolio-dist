@@ -1,0 +1,1 @@
+import{A as t}from"./AppContentWrapper-DnkVjYrG.js";import{A as e}from"./AppContentTitle-BxHq0Qh1.js";import{d as o,c as r,w as a,o as p,a as n}from"./index-BD7i2U9O.js";const f=o({__name:"Imprint",setup(s){return(m,c)=>(p(),r(t,null,{default:a(()=>[n(e,{title:"Imprint"})]),_:1}))}});export{f as default};
