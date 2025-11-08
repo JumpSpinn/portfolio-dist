@@ -1,0 +1,1 @@
+import"./AppContentWrapper-C-zDI_ED.js";import{d as a,h as o,o as s,t as n,_ as p}from"./index-CkA1jrJF.js";const i={"data-aos":"fade-in","data-aos-duration":"1000","data-aos-delay":"750"},r=a({__name:"AppContentTitle",props:{title:{default:"Empty Title"}},setup(t){const e=t;return(c,d)=>(s(),o("h1",i,n(e.title),1))}}),f=p(r,[["__scopeId","data-v-3fd32f60"]]);export{f as A};

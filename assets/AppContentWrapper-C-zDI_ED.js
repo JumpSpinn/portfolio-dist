@@ -1,0 +1,1 @@
+import{_ as t,h as n,o,p as r}from"./index-CkA1jrJF.js";const s={},a={class:"app_content_wrapper"};function c(e,p){return o(),n("div",a,[r(e.$slots,"default",{},void 0)])}const d=t(s,[["render",c],["__scopeId","data-v-476686d7"]]);export{d as A};

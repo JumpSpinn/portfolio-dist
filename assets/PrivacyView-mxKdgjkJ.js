@@ -1,0 +1,1 @@
+import{A as e}from"./AppContentWrapper-C-zDI_ED.js";import{A as t}from"./AppContentTitle-BjAaxJ2M.js";import{d as a,c as o,w as r,o as p,a as n}from"./index-CkA1jrJF.js";const f=a({__name:"PrivacyView",setup(c){return(s,i)=>(p(),o(e,null,{default:r(()=>[n(t,{title:"Privacy"})]),_:1}))}});export{f as default};
